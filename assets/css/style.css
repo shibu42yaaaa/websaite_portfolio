@@ -39,3 +39,41 @@ body{
     font-size: 30px;
 }
 /* .about-description{} */
+
+
+.grid {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.grid-item {
+    list-style: none;
+}
+.grid-col-2 > .grid-item {
+    width: 50%;
+}
+.grid-col-3 > .grid-item {
+    width: 33.3%;
+}
+.grid-col-4 > .grid-item {
+    width: 25%;
+}
+
+
+.feature {
+    text-align: center;
+    padding: 0 15px;
+}
+.feature-haedline {
+    font-weight: bold;
+    margin: 0 0 20px;
+}
+.feature-image {
+    margin: 0 0 20px;
+}
+.feature-description {
+    text-align: left;
+}
