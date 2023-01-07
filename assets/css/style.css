@@ -243,3 +243,52 @@ works
 .works > img {
     margin: 0  15px;
 }
+
+
+
+
+/* footer */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+}
+.footer-map {
+    margin: 0;
+    padding: 40px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-map > iframe {
+    width: 50%;
+}
+.footer-mapinfo {
+    width: 50%;
+    padding: 15px;
+}
+.footer-maplogo {
+    font-size: 25px;
+    font-weight: bold;
+}
+.footer-maplogo > img {
+    margin: 10;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.footer-mapaddress {
+    margin-top: 20px;
+    font-style: normal;
+}
+.footer-mapaddress > a {
+    color: #fff;
+}
+.footer-line {
+    border-color: #444;
+}
+.footer-copy {
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
