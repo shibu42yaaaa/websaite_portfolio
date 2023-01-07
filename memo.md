@@ -20,3 +20,23 @@ iframe:外部の web情報を埋め込む
 
 arget="_blank"
 別タブで開く
+
+
+hero
+video free検索
+https://www.pexels.com/videos/
+
+partical.js の導入
+https://vincentgarreau.com/particles.js/
+↓こっち
+https://vincentgarreau.com/particles.js/
+
+ファイル作成
+particles.min.js
+particles.json
+
+ホスティングについて
+サーバーを立てなければJavaScriptが反映されない
+
+おすすめサーバー環境
+netlify
