@@ -40,3 +40,13 @@ particles.json
 
 おすすめサーバー環境
 netlify
+
+その他の設定
+ファビコンの追加
+
+Faviconジェネレーター
+https://realfavicongenerator.net/
+
+
+HTML validatorの追加
+https://validator.nu/
