@@ -230,3 +230,16 @@ form
     margin: 20px;
     text-align: center;
 }
+
+/*
+works
+*/
+
+.works {
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+.works > img {
+    margin: 0  15px;
+}
